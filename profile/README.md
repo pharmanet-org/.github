@@ -1,10 +1,10 @@
-# pharma net
+# Pharma Network org
 
-* **[mobile and web platform](https://github.com/pharmadotnet/pharmanet)** : linking pharmacies and medicine storage.
-* **[dealer-docs](https://github.com/pharmadotnet/pharmanet-dealer-docs)** : a person or business that buys products (often in bulk) to resell them to consumers or other businesses
-* **[seller-docs](https://github.com/pharmadotnet/pharmanet-seller-docs)** : any person or entity that transfers ownership of goods or services in exchange for money. A seller can be a manufacturer, a distributor, a retailer, or a private individual.
+* **[mobile app](https://github.com/pharmanet-org/pharmanet/releases/latest)** : Pharma Network Mobile App.
+* **[web portal](https://admin.pharmanet.bilsul.com)** : PharmaNet Admin and Seller Web Portal.
+* **[guide docs](https://github.com/docs.pharmanet.bilsul.com)** : documentation for seller and public users.
 
 
 ### Contribute
 
-Development is coordinated in [dicussions](https://github.com/orgs/pharmadotnet/discussions), PRs and issues
+Development is coordinated in [dicussions](https://github.com/orgs/pharmanet-org/discussions), PRs and issues
